@@ -1,1 +1,1 @@
-# Python---Language-Detection
+# Python-Language-Detection
